@@ -67,6 +67,7 @@
 ||ar.transhero.com^
 ||as.hobby.porn^
 ||asg.faperoni.com^
+||ashemaletube.com^
 ||asiandolls.co.uk/images/banners/
 ||atube.xxx/static/js/abb.js
 ||aucdn.net/library/*.mp4$rewrite=abp-resource:blank-mp4,domain=txnhh.com|xnxx.com|xvideos.com|xvv1deos.com
@@ -129,6 +130,7 @@
 ||clips4sale.com^$domain=mrdeepfakes.com
 ||cloud.hentai-moon.com/contents/hdd337st/$media
 ||cluster.xhspot.com^
+||coomer.st^
 ||cover.ydgal.com/axfile/
 ||creative.homejavlive.com^
 ||creative.live.javmix.tv^
@@ -216,6 +218,7 @@
 ||ftopx.com/isttf558550ef6e.js
 ||ftopx.com/tf558550ef6e.js
 ||fuwn782kk.alphaporno.com^
+||fyptt.to^
 ||galleries-pornstar.com/thumb_top/
 ||gamcore.com/ajax/abc?
 ||gamcore.com/js/ipp.js
@@ -268,6 +271,7 @@
 ||home-xxx-videos.com/snowy-
 ||homemade.xxx/player/html.php?aid=
 ||homeprivatevids.com/js/580eka426.js
+||homo.xxx^
 ||hornygamer.com/includes/gamefile/sw3d_hornygamer.gif
 ||hornygamer.com/play_horny_games/
 ||hornyjourney.com/fr.js
@@ -508,6 +512,7 @@
 ||sexvid.pro/knxx/
 ||sexvid.pro/rrt/
 ||sexvid.xxx/ghjk/
+||shemale6.com^
 ||simpcity.network/smp/
 ||simply-hentai.com/prod/
 ||sleazyneasy.com/contents/images-banners/
@@ -566,6 +571,7 @@
 ||vipergirls.to/clientscript/popcode_
 ||vipergirls.to/clientscript/poptrigger_
 ||viptube.com/player_right_ntv_
+||viralxxxporn.com^
 ||vivatube.*/templates/base_master/js/jquery.shows2.min.js
 ||voyeurhit.com/ffpqvfaczp/
 ||vuwjv7sjvg7.zedporn.com^
